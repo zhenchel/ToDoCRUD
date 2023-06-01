@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Popit' chai",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": "Pokyshat'",
+      "priority": 10
+    },
+    {
+      "id": 3,
+      "name": "Shodit' na tyrnichki",
+      "priority": 78
+    },
+    {
+      "id": 4,
+      "name": "Pochitat' ByteOfPython",
+      "priority": 100
+    },
+    {
+      "id": 5,
+      "name": "Shodit' na raboty",
+      "priority": 56
+    },
+    {
+      "id": 7,
+      "name": "Podnyat' shtangy 200 kg",
+      "priority": 67
+    },
+    {
+      "id": 8,
+      "name": "Sdelat' domashky",
+      "priority": 290
+    },
+    {
+      "id": 9,
+      "name": "Posmotret' Shrek 2",
+      "priority": 999
+    }
+  ]
+}
